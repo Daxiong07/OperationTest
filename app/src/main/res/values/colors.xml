@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <drawable name="load_cofirm_btn_press">#d0d2ce</drawable>
+    <drawable name="load_cofirm_btn_normal">#7f89ef</drawable>
+    <drawable name="load_cofirm_btn_disable">#b9bde7</drawable>
+</resources>
